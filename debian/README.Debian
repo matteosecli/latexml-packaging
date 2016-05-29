@@ -1,0 +1,16 @@
+LaTeXML
+-------
+
+The command
+
+   latexml {options} --destination=doc.xml doc
+
+converts the TEX document doc.tex, or standard input if - is used in place of the filename,
+to XML. It loads any required definition bindings (see below), reads, tokenizes,
+expands and digests the document creating an XML structure. It then performs some
+document rewriting, parses the mathematical content and writes the result, in this case,
+to doc.xml; if no --destination is suppplied, it writes the result to standard output.
+For details on the processing, see Chapter 3, and Chapter 5 for more information
+about math parsing.
+
+--- From "LaTeXML - The Manual" by Bruce R. Miller
