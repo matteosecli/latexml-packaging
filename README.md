@@ -13,3 +13,8 @@ For a new version, you have to manually update the `changelog` file. Open up a t
     $ dch --release --distribution unstable --check-dirname-level 0 ''
 
 Then, update the repo and let Launchpad work its magic.
+
+Warnings
+--------
+* Dunno why, but my email is not parsed correctly. I have to figure out what's the problem.
+* The goddamn Launchpad does not accept signed commits, so I had to switch back to unsigned commits.
