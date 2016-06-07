@@ -1,3 +1,9 @@
+latexml (0.8.2-1) unstable; urgency=medium
+
+  * New upstream release (0.8.2-1)
+
+ -- Matteo Seclì <secli.matteo@gmail.com>  Tue, 07 Jun 2016 14:49:00 +0200
+
 latexml (0.8.1-1) unstable; urgency=medium
 
   * New upstream release (0.8.1) (Closes: #773943)
