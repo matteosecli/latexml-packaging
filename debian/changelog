@@ -1,3 +1,9 @@
+latexml (0.8.2-3) unstable; urgency=medium
+
+  * New test version (0.8.2-3)
+
+ -- Matteo Seclì <secli.matteo@gmail.com>  Fri, 08 Jul 2016 18:41:10 +0200
+
 latexml (0.8.2-1) unstable; urgency=medium
 
   * New upstream release (0.8.2-1)
